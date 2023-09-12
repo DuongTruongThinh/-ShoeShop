@@ -1,0 +1,5 @@
++ Component: ClassComponent，FunctionComponent
++ DataBinding: Dua data len layout
++ RenderWithMap: Convert array data thanh array html css
++ State: quản lý các data ảnh hưởng đến layout, state sẽ theo dõi và tự động render lại nếu dữ liệu này được update
++ Props: tương tác giữa 2 Component (truyền data: biến, hàm, obj) 
