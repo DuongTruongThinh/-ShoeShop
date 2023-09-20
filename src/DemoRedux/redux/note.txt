@@ -1,0 +1,3 @@
+Cài redux (tính năng đang cần) và react-redux (trung gian)
+reducer: nơi viết logic update data của redux
+mapStateToProps: lấy data từ redux đưa về component dưới dạng props
